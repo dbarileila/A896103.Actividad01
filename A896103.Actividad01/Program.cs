@@ -10,6 +10,8 @@ namespace A896103.Actividad01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo!");
+            Console.ReadLine();
         }
     }
 }
